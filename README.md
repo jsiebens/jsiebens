@@ -1,4 +1,6 @@
-Recent blog posts:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jsiebens&show_icons=true&icon_color=718096&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+**Recent blog posts**
 <!-- BLOG-POST-LIST:START -->
 - [Provision a Multi-Region k3s cluster on Google Cloud with Terraform](https://johansiebens.dev/posts/2020/11/provision-a-multi-region-k3s-cluster-on-google-cloud-with-terraform/)
 - [Boundary + inlets-pro: secure access to your private infrastructure](https://johansiebens.dev/posts/2020/10/boundary-inlets-pro-secure-access-to-your-private-infrastructure/)
